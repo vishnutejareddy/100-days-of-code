@@ -36,3 +36,36 @@
 2. [Number of pairs](https://practice.geeksforgeeks.org/problems/number-of-pairs/0/)
 3. [Inversion-of-array](https://practice.geeksforgeeks.org/problems/inversion-of-array/0/)
 4. [linear-search,binary-search,jump-search,interpolation-search,exponential-search]
+
+
+### Day 2: June 19, 2020
+
+**Today's Progress**: Going through problems in array section of GFG.
+
+**Thoughts**
+1. got it on first try
+1. got it on first try with space o(n), found o(1) space solution
+3. missed logic on first try. got it second on try.
+4. got in first try
+5. got direct solution - sort & return, found min heap by priority queue solution
+6. wrote a solution with some edge cases failing. GFG solution looks good
+7. similar to counting triplets problem. got on first try.
+8. timeout on first try. used ios_base::sync_with_stdio(false) && cin.tie(NULL) to get faster solution 
+
+**Link(s) to work**
+1. [Sort an array of 0s, 1s and 2s](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0)
+2. [Equilibrium-point](https://practice.geeksforgeeks.org/problems/equilibrium-point/0)
+3. [Leaders-in-an-array](https://practice.geeksforgeeks.org/problems/leaders-in-an-array/0)
+4. [Reverse array in groups](https://practice.geeksforgeeks.org/problems/reverse-array-in-groups/0)
+5. [Kth smallest element](https://practice.geeksforgeeks.org/problems/kth-smallest-element/0)
+6. [Trapping Rain Water](https://practice.geeksforgeeks.org/problems/trapping-rain-water/0)
+7. [Pythagorean Triplet](https://practice.geeksforgeeks.org/problems/pythagorean-triplet/0)
+8. [Chocolate Distribution Problem](https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem/0)
+
+### Day 3: June 20, 2020
+
+**Today's Progress**: Going through problems in array section of GFG.
+
+**Thoughts**
+
+**Link(s) to work**
