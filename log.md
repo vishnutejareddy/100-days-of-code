@@ -108,3 +108,26 @@
 8. [Anagram](https://practice.geeksforgeeks.org/problems/anagram/0)
 9. [Remove Duplicates](https://practice.geeksforgeeks.org/problems/remove-duplicates/0)
 10. [Implement-Atoi]{https://practice.geeksforgeeks.org/problems/implement-atoi/1}
+
+
+### Day 6: June 22, 2020
+
+**Today's Progress**: going through string section of GFG, linked list section of GFG
+
+**Thoughts**
+1. got it on first try
+2. got it on first try
+3. had to eliminate some edge cases. did using 'struct'. GFG solution is done using 'map'
+4. got it on first try
+5. Brushed up on pointers, new keyword, linked list basics. got it in first try
+6. got it on first try
+7. found an easy trick for this pblm, multiply by negative
+
+**Link(s) to work**
+1. [Implement strstr](https://practice.geeksforgeeks.org/problems/implement-strstr/1)
+2. [Longest Common Prefix in an Array](https://practice.geeksforgeeks.org/problems/longest-common-prefix-in-an-array/0)
+3. [Longest Distinct characters in string](https://practice.geeksforgeeks.org/problems/longest-distinct-characters-in-string/0)
+4. [Finding middle element in a linked list](https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1)
+5. [Reverse a linked list](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1)
+6. [Rotate a Linked List](https://practice.geeksforgeeks.org/problems/rotate-a-linked-list/1)
+7. [Intersection Point in Y Shapped Linked Lists](https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1/)
