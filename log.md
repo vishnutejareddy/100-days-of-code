@@ -122,6 +122,7 @@
 5. Brushed up on pointers, new keyword, linked list basics. got it in first try
 6. got it on first try
 7. found an easy trick for this pblm, multiply by negative
+8. got it in first try using above trick
 
 **Link(s) to work**
 1. [Implement strstr](https://practice.geeksforgeeks.org/problems/implement-strstr/1)
@@ -131,3 +132,56 @@
 5. [Reverse a linked list](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1)
 6. [Rotate a Linked List](https://practice.geeksforgeeks.org/problems/rotate-a-linked-list/1)
 7. [Intersection Point in Y Shapped Linked Lists](https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1/)
+8. [Detect Loop in linked list](https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1)
+
+
+### Day 7: June 23, 2020
+
+**Today's Progress**: going through linked list section of GFG. Started stack section
+
+**Thoughts**
+1. got it after two tries. used multiply by -1
+2. got it in first try. first node starts at head. second node starts at head + n. move fwd, when second reaches end, 1 at nth from end.
+3. got it in first try. two heads moving fwd based on comparision
+4. got it after eliminating 'seg fault'
+5. got it in first try. used arr[3] to store count of 0,1,2
+6. good understanding of pointer gives one line solution. other solution involves changing data values to prev
+7. got it in two tries
+8. got it after little trick- insert new node at head
+9. got it in first try. stack
+
+**Link(s) to work**
+1. [Remove loop in Linked List](https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1)
+2. [Nth node from end of linked list](https://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1)
+3. [Merge two sorted linked lists ](https://practice.geeksforgeeks.org/problems/merge-two-sorted-linked-lists/1)
+4. [Pairwise swap elements of a linked list](https://practice.geeksforgeeks.org/problems/pairwise-swap-elements-of-a-linked-list-by-swapping-data/1)
+5. [Given a linked list of 0s, 1s and 2s, sort it](https://practice.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1)
+6. [Delete without head pointe](https://practice.geeksforgeeks.org/problems/delete-without-head-pointer/1)
+7. [Implement Queue using Linked List ](https://practice.geeksforgeeks.org/problems/implement-queue-using-linked-list/1)
+8. [Implement Stack using Linked List](https://practice.geeksforgeeks.org/problems/implement-stack-using-linked-list/1)
+9. [Parenthesis Checker](https://practice.geeksforgeeks.org/problems/parenthesis-checker/0)
+
+
+### Day 8: June 24, 2020
+
+**Today's Progress**: going through linked list pblms
+
+**Thoughts**
+1. DP problem. Took time to solve. Had to look solution. have to read up on dp a bit
+2. got it after two tries
+3. incorrectly framed question. got solution for what i understood
+4. got it in first try. find middle element. reverse from middle till end. compare head, middle till middle
+5. Took time. Got it after couple of tries
+6. got in in first try
+7. got it in first try
+8. got it in first try
+
+**Link(s) to work**
+1. [Form a palindrome ](https://practice.geeksforgeeks.org/problems/form-a-palindrome/0)
+2. [Reverse a Linked List in groups of given size.](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1)
+3. [Flattening a Linked List](https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1)
+4. [Check if Linked List is Palindrome](https://practice.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1)
+5. [Add two numbers represented by linked lists](https://practice.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1)
+6. [Queue using two Stack](https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1)
+7. [Stack using two queues](https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1)
+8. [Stack using two queues](https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1)
