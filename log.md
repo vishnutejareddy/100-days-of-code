@@ -164,7 +164,7 @@
 
 ### Day 8: June 24, 2020
 
-**Today's Progress**: going through linked list pblms
+**Today's Progress**: going through linked list pblms and stack & queue problems
 
 **Thoughts**
 1. DP problem. Took time to solve. Had to look solution. have to read up on dp a bit
@@ -185,3 +185,22 @@
 6. [Queue using two Stack](https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1)
 7. [Stack using two queues](https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1)
 8. [Stack using two queues](https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1)
+
+
+### Day 8: June 25, 2020
+
+**Today's Progress**: going through stack and queue pblms
+
+**Thoughts**
+1. Got in first try. extra space O(n)
+2. got in first try with timeout for some cases. found a simple solution in GFG
+3. got it in two tries
+4. got it in two tries. had to look up gfg solution for few test  cases
+5. got it in two tries. had to look up gfg solution for few test  cases
+
+**Link(s) to work**
+1. [Get minimum element from stack](https://practice.geeksforgeeks.org/problems/get-minimum-element-from-stack/1)
+2. [Circular tour ](https://practice.geeksforgeeks.org/problems/circular-tour/1)
+3. [Maximum of all subarrays of size k](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0)
+4. [First non-repeating character in a stream](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream/0)
+5. [Next larger element](https://practice.geeksforgeeks.org/problems/next-larger-element/0)
