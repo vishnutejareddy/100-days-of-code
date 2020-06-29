@@ -204,3 +204,28 @@
 3. [Maximum of all subarrays of size k](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0)
 4. [First non-repeating character in a stream](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream/0)
 5. [Next larger element](https://practice.geeksforgeeks.org/problems/next-larger-element/0)
+
+
+### Day 9: June 26, 2020
+
+**Today's Progress**: going through tree problems
+
+**Thoughts**
+1. found a solution. missing some test cases. had to look GFG solution
+2. got a slightly wrong solution. Had to look GFG solution
+3. Had to look GFG solution
+4. got it in first try
+5. got it in two tries
+6. got it in two tries. one test case where root=null failed. took time with figuring that stupid thing out.
+7. got the right idea. implementation took time
+8. got it in first try
+
+**Link(s) to work**
+1. [Left View of Binary Tree](https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1)
+2. [Check for BST](https://practice.geeksforgeeks.org/problems/check-for-bst/1)
+3. [Bottom View of Binary Tree](https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1)
+4. [Vertical Traversal of Binary Tree](https://practice.geeksforgeeks.org/problems/print-a-binary-tree-in-vertical-order/1)
+5. [Connect Nodes at Same Level ](https://practice.geeksforgeeks.org/problems/connect-nodes-at-same-level/1)
+6. [Level order traversal in spiral form](https://practice.geeksforgeeks.org/problems/level-order-traversal-in-spiral-form/1)
+7. [Binary Tree to DLL](https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1)
+8. [Lowest Common Ancestor in a BST](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-bst/1)
