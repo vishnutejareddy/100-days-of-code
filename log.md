@@ -229,3 +229,24 @@
 6. [Level order traversal in spiral form](https://practice.geeksforgeeks.org/problems/level-order-traversal-in-spiral-form/1)
 7. [Binary Tree to DLL](https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1)
 8. [Lowest Common Ancestor in a BST](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-bst/1)
+
+
+### missed two days. shouldn't happen again.
+
+### Day 10: June 29, 2020
+
+**Today's Progress**: going through tree problems
+
+**Thoughts**
+1. got it in first try
+2. got it in first try. A hack solution. used inorder and compared array is palindromic. GFG solution is different
+3. got it in first try
+4. got logic in first try. timeout for few test cases. used simpler solution
+5. got it in first try. missed one edge case
+
+**Link(s) to work**
+1. [Determine if Two Trees are Identical](https://practice.geeksforgeeks.org/problems/determine-if-two-trees-are-identical/1)
+2. [Symmetric Tree](https://practice.geeksforgeeks.org/problems/symmetric-tree/1)
+3. [Height of Binary Tree](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1)
+4. [Diameter of Binary Tree](https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1)
+5. [Count Leaves in Binary Tree](https://practice.geeksforgeeks.org/problems/count-leaves-in-binary-tree/1)
