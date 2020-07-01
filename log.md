@@ -250,3 +250,23 @@
 3. [Height of Binary Tree](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1)
 4. [Diameter of Binary Tree](https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1)
 5. [Count Leaves in Binary Tree](https://practice.geeksforgeeks.org/problems/count-leaves-in-binary-tree/1)
+
+### Day 11: June 30, 2020
+
+**Today's Progress**: going through tree problems, heap problems
+
+**Thoughts**
+1. idea was right. implementation took time.
+2. got it in two tries.
+3. took time to implement solution. idea is right.
+4. read up sometime on heap, heap sort, binary heap, min heap, max heap
+5. got in first try. store in arr[26]- aphabet count, arr[i]>n/2 -> not possible
+6. got it after looking priority queue solution
+
+**Link(s) to work**
+1. [Maximum Path Sum between 2 Leaf Nodes](https://practice.geeksforgeeks.org/problems/maximum-path-sum/1)
+2. [Check for Balanced Tree](https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1)
+3. [Serialize and Deserialize a Binary Tree](https://practice.geeksforgeeks.org/problems/serialize-and-deserialize-a-binary-tree/1)
+4. [Heap Sort](https://practice.geeksforgeeks.org/problems/heap-sort/1)
+5. [Rearrange characters](https://practice.geeksforgeeks.org/problems/rearrange-characters/0)
+6. [Kth largest element in a stream](https://practice.geeksforgeeks.org/problems/kth-largest-element-in-a-stream/0)
