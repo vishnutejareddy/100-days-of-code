@@ -270,3 +270,24 @@
 4. [Heap Sort](https://practice.geeksforgeeks.org/problems/heap-sort/1)
 5. [Rearrange characters](https://practice.geeksforgeeks.org/problems/rearrange-characters/0)
 6. [Kth largest element in a stream](https://practice.geeksforgeeks.org/problems/kth-largest-element-in-a-stream/0)
+
+
+### Day 12: July 1, 2020
+
+**Today's Progress**: going through heap problems
+
+**Thoughts**
+1. got it in first try. used priority queue
+2. looked at binary min heap implementation
+3. got it in first try. log(n)/log(2)
+4. got in first try. used priority queue
+5. tree pblm. got in first try
+6. tree pblm. got in first try
+
+**Link(s) to work**
+1. [Merge K sorted linked lists](https://practice.geeksforgeeks.org/problems/merge-k-sorted-linked-lists/1)
+2. [Binary Heap Operations](https://practice.geeksforgeeks.org/problems/operations-on-binary-min-heap/1)
+3. [Height of Heap](https://practice.geeksforgeeks.org/problems/height-of-heap/0/)
+4. [k largest elements](https://practice.geeksforgeeks.org/problems/k-largest-elements/0/)
+5. [Mirror Tree ](https://practice.geeksforgeeks.org/problems/mirror-tree/1/)
+6. [Sum of Leaf Nodes](https://practice.geeksforgeeks.org/problems/sum-of-leaf-nodes/1/)
