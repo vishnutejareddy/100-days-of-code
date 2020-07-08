@@ -291,3 +291,78 @@
 4. [k largest elements](https://practice.geeksforgeeks.org/problems/k-largest-elements/0/)
 5. [Mirror Tree ](https://practice.geeksforgeeks.org/problems/mirror-tree/1/)
 6. [Sum of Leaf Nodes](https://practice.geeksforgeeks.org/problems/sum-of-leaf-nodes/1/)
+
+
+### Day 13: July 2, 2020
+
+**Today's Progress**: going through recursion problems
+
+**Thoughts**
+1. got in first try. recursion four ways
+2. got in first try
+
+
+**Link(s) to work**
+1. [Flood fill Algorithm](https://practice.geeksforgeeks.org/problems/flood-fill-algorithm/0)
+2. [Number of paths](https://practice.geeksforgeeks.org/problems/number-of-paths/0)
+
+
+### Day 14: July 3, 2020
+
+**Today's Progress**: going through hashing problems
+
+**Thoughts**
+1. got the right idea. had to look at stl maps methods
+2. got in first try
+3. had to look at solution for faster sol. simple trick using hashing
+4. got in first try
+5. got it in first try. gfg sol -- y = x+(diff/2)
+6. got in first try
+
+**Link(s) to work**
+1. [Relative Sorting](https://practice.geeksforgeeks.org/problems/relative-sorting/0)
+2. [Sorting Elements of an Array by Frequency](https://practice.geeksforgeeks.org/problems/sorting-elements-of-an-array-by-frequency/0)
+3. [Largest subarray with 0 sum](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1)
+4. [Common elements](https://practice.geeksforgeeks.org/problems/common-elements/0)
+5. [Swapping pairs make sum equal](https://practice.geeksforgeeks.org/problems/swapping-pairs-make-sum-equal/0)
+6. [Count distinct elements in every window](https://practice.geeksforgeeks.org/problems/count-distinct-elements-in-every-window/1)
+
+
+### Day 15: July 4, 2020
+
+**Today's Progress**: going through hashing problems
+
+**Thoughts**
+1. got in first try. test cases are weak and bad
+2. got in first try
+3. got in first try
+4. got in first try
+5. got in first try
+6. got timeout errors with map. used unordered map
+
+**Link(s) to work**
+1. [Array Pair Sum Divisibility Problem](https://practice.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem/0)
+2. [Longest consecutive subsequence](https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence/0)
+3. [Array Subset of another array](https://practice.geeksforgeeks.org/problems/array-subset-of-another-array/0)
+4. [Find all pairs with a given sum](https://practice.geeksforgeeks.org/problems/find-all-pairs-whose-sum-is-x/0)
+5. [Find first repeated character](https://practice.geeksforgeeks.org/problems/find-first-repeated-character/0)
+6. [Zero Sum Subarrays](https://practice.geeksforgeeks.org/problems/zero-sum-subarrays/0)
+
+
+### Day 16: July 5, 2020
+
+**Today's Progress**: going through hashing problems
+
+**Thoughts**
+1. got in first try
+2. got in first try
+3. got in first try
+4. got in first try
+5. got the right idea, but implementation took time. had to look gfg solution
+
+**Link(s) to work**
+1. [Minimum indexed character](https://practice.geeksforgeeks.org/problems/minimum-indexed-character/0)
+2. [Check if two arrays are equal or not](https://practice.geeksforgeeks.org/problems/check-if-two-arrays-are-equal-or-not/0)
+3. [Uncommon characters](https://practice.geeksforgeeks.org/problems/uncommon-characters/0)
+4. [First element to occur k times](https://practice.geeksforgeeks.org/problems/first-element-to-occur-k-times/0)
+5. [Check if frequencies can be equal](https://practice.geeksforgeeks.org/problems/check-frequencies/0)
