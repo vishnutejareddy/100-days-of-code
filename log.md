@@ -366,3 +366,22 @@
 3. [Uncommon characters](https://practice.geeksforgeeks.org/problems/uncommon-characters/0)
 4. [First element to occur k times](https://practice.geeksforgeeks.org/problems/first-element-to-occur-k-times/0)
 5. [Check if frequencies can be equal](https://practice.geeksforgeeks.org/problems/check-frequencies/0)
+
+
+### Day 17: July 6, 2020
+
+**Today's Progress**: going through graph problems. went through basics of graphs.
+
+**Thoughts**
+1. got in first try
+2. got in first try
+3. had to go through gfg solution
+4. had to go through solution
+5. had to go through toplogical sort
+
+**Link(s) to work**
+1. [DFS of Graph](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1)
+2. [BFS of graph](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1)
+3. [Detect cycle in an undirected graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1/)
+4. [Detect cycle in a directed graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1)
+5. [Topological sort](https://practice.geeksforgeeks.org/problems/topological-sort/1)
