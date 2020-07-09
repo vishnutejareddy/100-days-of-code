@@ -385,3 +385,22 @@
 3. [Detect cycle in an undirected graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1/)
 4. [Detect cycle in a directed graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1)
 5. [Topological sort](https://practice.geeksforgeeks.org/problems/topological-sort/1)
+
+
+### Day 18: July 7, 2020
+
+**Today's Progress**: going through graph problems.
+
+**Thoughts**
+1. got in first try
+2. had to look Djiktra's algo
+3. had to look at GFG solution
+4. had to look at kosaraju's algorithm
+5. got in first try
+
+**Link(s) to work**
+1. [Find the number of islands](https://practice.geeksforgeeks.org/problems/find-the-number-of-islands/1)
+2. [Implementing Dijkstra | Set 1 (Adjacency Matrix)](https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1)
+3. [Minimum Swaps to Sort](https://practice.geeksforgeeks.org/problems/minimum-swaps/1)
+4. [Strongly Connected Components (Kosaraju's Algo)](https://practice.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1)
+5. [Shortest Source to Destination Path](https://practice.geeksforgeeks.org/problems/shortest-source-to-destination-path/0)
