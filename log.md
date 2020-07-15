@@ -404,3 +404,22 @@
 3. [Minimum Swaps to Sort](https://practice.geeksforgeeks.org/problems/minimum-swaps/1)
 4. [Strongly Connected Components (Kosaraju's Algo)](https://practice.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1)
 5. [Shortest Source to Destination Path](https://practice.geeksforgeeks.org/problems/shortest-source-to-destination-path/0)
+
+
+### Day 19: July 8, 2020
+
+**Today's Progress**: going through graph problems.
+
+**Thoughts**
+1. got in first try
+2. had to look at dijkstra's algo for 2d grid
+3. had to look at solution
+4. had to look solution
+5. had to look solution
+
+**Link(s) to work**
+1. [Find whether path exist](https://practice.geeksforgeeks.org/problems/find-whether-path-exist/0)
+2. [Minimum Cost Path](https://practice.geeksforgeeks.org/problems/minimum-cost-path/0)
+3. [Circle of strings](https://practice.geeksforgeeks.org/problems/circle-of-strings/0)
+4. [Alien Dictionary](https://practice.geeksforgeeks.org/problems/alien-dictionary/1)
+5. [Snake and Ladder Problem](https://practice.geeksforgeeks.org/problems/snake-and-ladder-problem/0)
