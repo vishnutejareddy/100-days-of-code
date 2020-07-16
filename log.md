@@ -416,6 +416,7 @@
 3. had to look at solution
 4. had to look solution
 5. had to look solution
+6. saw notes on Floyd Warshall
 
 **Link(s) to work**
 1. [Find whether path exist](https://practice.geeksforgeeks.org/problems/find-whether-path-exist/0)
@@ -423,3 +424,23 @@
 3. [Circle of strings](https://practice.geeksforgeeks.org/problems/circle-of-strings/0)
 4. [Alien Dictionary](https://practice.geeksforgeeks.org/problems/alien-dictionary/1)
 5. [Snake and Ladder Problem](https://practice.geeksforgeeks.org/problems/snake-and-ladder-problem/0)
+6. [Floyd Warshall](https://practice.geeksforgeeks.org/problems/implementing-floyd-warshall/0)
+
+
+### Day 20: July 9, 2020
+
+**Today's Progress**: going through greedy problems
+
+**Thoughts**
+1. got in two tries
+2. got in first try
+3. had to look solution
+3. got in first try
+4. took two tries. had to look solution for two failed test cases
+
+**Link(s) to work**
+1. [Activity Selection](https://practice.geeksforgeeks.org/problems/activity-selection/0)
+2. [N meetings in one room](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room/0)
+3. [Coin Piles](https://practice.geeksforgeeks.org/problems/coin-piles/0)
+4. [Maximize Toys](https://practice.geeksforgeeks.org/problems/maximize-toys/0)
+5. [Page Faults in LRU](https://practice.geeksforgeeks.org/problems/page-faults-in-lru/0)
