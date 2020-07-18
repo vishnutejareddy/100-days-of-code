@@ -444,3 +444,41 @@
 3. [Coin Piles](https://practice.geeksforgeeks.org/problems/coin-piles/0)
 4. [Maximize Toys](https://practice.geeksforgeeks.org/problems/maximize-toys/0)
 5. [Page Faults in LRU](https://practice.geeksforgeeks.org/problems/page-faults-in-lru/0)
+
+### Day 21: July 10, 2020
+
+**Today's Progress**: going through greedy problems
+
+**Thoughts**
+1. got in first try
+2. got in first try
+3. read up on Huffman encode & decode. got in first try
+4. got in first try
+5. had to look solution for some test cases
+
+**Link(s) to work**
+1. [Largest number possible](https://practice.geeksforgeeks.org/problems/largest-number-possible/0)
+2. [Minimize the sum of product](https://practice.geeksforgeeks.org/problems/minimize-the-sum-of-product/0)
+3. [Huffman Decoding-1](https://practice.geeksforgeeks.org/problems/huffman-decoding-1/1)
+4. [Shop in Candy Store](https://practice.geeksforgeeks.org/problems/shop-in-candy-store/0)
+5. [Geek collects the balls](https://practice.geeksforgeeks.org/problems/geek-collects-the-balls/0)
+
+
+### Day 21: July 10, 2020
+
+**Today's Progress**: going through DP problems
+
+**Thoughts**
+1. got in first try
+2. greedy approach gave solution
+3. got in first try
+4. got in first try
+5. had to look at implementation once
+
+
+**Link(s) to work**
+1. [Minimum Operations](https://practice.geeksforgeeks.org/problems/find-optimum-operation/0)
+2. [Max length chain](https://practice.geeksforgeeks.org/problems/max-length-chain/1)
+3. [Minimum number of Coins](https://practice.geeksforgeeks.org/problems/-minimum-number-of-coins/0)
+4. [Longest Common Substring](https://practice.geeksforgeeks.org/problems/longest-common-substring/0)
+5. [Longest Increasing Subsequence](https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence/0)
