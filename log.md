@@ -501,3 +501,22 @@
 3. [Maximum sum increasing subsequence](https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence/0)
 4. [Minimum number of jumps](https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps/0)
 5. [Edit Distance](https://practice.geeksforgeeks.org/problems/edit-distance/0)
+
+
+### Day 24: July 13, 2020
+
+**Today's Progress**: going through DP problems
+
+**Thoughts**
+1. got in first try
+2. had to look at implementation
+3. got in first try
+4. got in first try
+5. got in first try. used memotization,recursion
+
+**Link(s) to work**
+1. [Coin Change](https://practice.geeksforgeeks.org/problems/coin-change/0)
+2. [Subset Sum Problem](https://practice.geeksforgeeks.org/problems/subset-sum-problem/0)
+3. [Maximize The Cut Segments](https://practice.geeksforgeeks.org/problems/cutted-segments/0)
+4. [Find the longest path in a matrix with given constraints](https://www.geeksforgeeks.org/find-the-longest-path-in-a-matrix-with-given-constraints/)
+5. [Path in Matrix](https://practice.geeksforgeeks.org/problems/path-in-matrix/0)
