@@ -464,7 +464,7 @@
 5. [Geek collects the balls](https://practice.geeksforgeeks.org/problems/geek-collects-the-balls/0)
 
 
-### Day 21: July 10, 2020
+### Day 22: July 11, 2020
 
 **Today's Progress**: going through DP problems
 
@@ -482,3 +482,22 @@
 3. [Minimum number of Coins](https://practice.geeksforgeeks.org/problems/-minimum-number-of-coins/0)
 4. [Longest Common Substring](https://practice.geeksforgeeks.org/problems/longest-common-substring/0)
 5. [Longest Increasing Subsequence](https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence/0)
+
+
+### Day 23: July 12, 2020
+
+**Today's Progress**: going through DP problems
+
+**Thoughts**
+1. got in first try
+2. looked at implementation 
+3. got in first try
+4. missed some edge cases. Looked at implementation
+5. had to look implementation
+
+**Link(s) to work**
+1. [Longest Common Subsequence](https://practice.geeksforgeeks.org/problems/longest-common-subsequence/0)
+2. [0 - 1 Knapsack Problem](https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem/0)
+3. [Maximum sum increasing subsequence](https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence/0)
+4. [Minimum number of jumps](https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps/0)
+5. [Edit Distance](https://practice.geeksforgeeks.org/problems/edit-distance/0)
