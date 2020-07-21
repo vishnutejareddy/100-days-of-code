@@ -520,3 +520,22 @@
 3. [Maximize The Cut Segments](https://practice.geeksforgeeks.org/problems/cutted-segments/0)
 4. [Find the longest path in a matrix with given constraints](https://www.geeksforgeeks.org/find-the-longest-path-in-a-matrix-with-given-constraints/)
 5. [Path in Matrix](https://practice.geeksforgeeks.org/problems/path-in-matrix/0)
+
+
+### Day 24: July 13, 2020
+
+**Today's Progress**: going through DP problems
+
+**Thoughts**
+1. looked at implementation
+2. got in first try
+3. had to look at implementation
+4. had to look implementation
+5. got ans in recursive approach. had to look dp approach
+
+**Link(s) to work**
+1. [Egg Dropping Puzzle](https://practice.geeksforgeeks.org/problems/egg-dropping-puzzle/0)
+2. [Shortest Common Supersequence](https://practice.geeksforgeeks.org/problems/shortest-common-supersequence/0)
+3. [Optimal Strategy For A Game](https://practice.geeksforgeeks.org/problems/optimal-strategy-for-a-game/0)
+4. [Box Stacking](https://practice.geeksforgeeks.org/problems/box-stacking/1)
+5. [Minimum sum partition](https://practice.geeksforgeeks.org/problems/minimum-sum-partition/0)
