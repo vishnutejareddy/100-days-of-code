@@ -539,3 +539,26 @@
 3. [Optimal Strategy For A Game](https://practice.geeksforgeeks.org/problems/optimal-strategy-for-a-game/0)
 4. [Box Stacking](https://practice.geeksforgeeks.org/problems/box-stacking/1)
 5. [Minimum sum partition](https://practice.geeksforgeeks.org/problems/minimum-sum-partition/0)
+
+
+### Day 25: July 14, 2020
+
+**Today's Progress**: going through Divide and Conquer problems
+
+**Thoughts**
+1. got in first try
+2. got in first try
+3. got in first try
+4. got in first try
+5. got in first try
+6. got in first try
+7. got in first try
+
+**Link(s) to work**
+1. [Find the element that appears once in sorted array ](https://practice.geeksforgeeks.org/problemsfind-the-element-that-appears-once-in-sorted-array/0)
+2. [Search in a Rotated Array](https://practice.geeksforgeeks.org/problems/search-in-a-rotated-array/0)
+3. [Binary Search](https://practice.geeksforgeeks.org/problems/binary-search/1)
+4. [Sum of Middle Elements of two sorted arrays](https://practice.geeksforgeeks.org/problems/sum-of-middle-elements-of-two-sorted-arrays/0)
+5. [Quick Sort](https://practice.geeksforgeeks.org/problems/quick-sort/1)
+6. [Merge Sort](https://practice.geeksforgeeks.org/problems/merge-sort/1)
+7. [K-th element of two sorted Arrays](https://practice.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array/0)
