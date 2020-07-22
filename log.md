@@ -562,3 +562,22 @@
 5. [Quick Sort](https://practice.geeksforgeeks.org/problems/quick-sort/1)
 6. [Merge Sort](https://practice.geeksforgeeks.org/problems/merge-sort/1)
 7. [K-th element of two sorted Arrays](https://practice.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array/0)
+
+
+### Day 26: July 15, 2020
+
+**Today's Progress**: going through bit magic problems
+
+**Thoughts**
+1. got in first try
+2. got in first try
+3. got in first try
+4. got in first try
+5. got in first try
+
+**Link(s) to work**
+1. [Find first set bit](https://practice.geeksforgeeks.org/problems/find-first-set-bit/0)
+2. [Rightmost different bit](https://practice.geeksforgeeks.org/problems/rightmost-different-bit/0)
+3. [Check whether K-th bit is set or not](https://practice.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not/0)
+4. [Toggle bits given range ](https://practice.geeksforgeeks.org/problems/toggle-bits-given-range/0)
+5. [Set kth bit](https://practice.geeksforgeeks.org/problems/set-kth-bit/0)
