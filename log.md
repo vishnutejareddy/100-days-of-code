@@ -617,3 +617,22 @@
 2. [Rotate Bits](https://practice.geeksforgeeks.org/problems/rotate-bits/0)
 3. [Count total set bits](https://practice.geeksforgeeks.org/problems/count-total-set-bits/0)
 4. [Maximum subset XOR](https://practice.geeksforgeeks.org/problems/maximum-subset-xor/1)
+
+
+### Day 29: July 18, 2020
+
+**Today's Progress**: going through array extra problems
+
+**Thoughts**
+1. got in first try
+2. got in first try
+3. had to look solution
+4. got in first try
+5. got in first try
+
+**Link(s) to work**
+1. [Find Missing And Repeating](https://practice.geeksforgeeks.org/problems/find-missing-and-repeating/0)
+2. [Maximum Index](https://practice.geeksforgeeks.org/problems/maximum-index/0)
+3. [Consecutive 1's not allowed](https://practice.geeksforgeeks.org/problems/consecutive-1s-not-allowed/0)
+4. [Majority Element](https://practice.geeksforgeeks.org/problems/majority-element/0)
+5. [Two numbers with sum closest to zero](https://practice.geeksforgeeks.org/problems/two-numbers-with-sum-closest-to-zero/0)
