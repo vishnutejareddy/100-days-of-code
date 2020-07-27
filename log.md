@@ -581,3 +581,22 @@
 3. [Check whether K-th bit is set or not](https://practice.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not/0)
 4. [Toggle bits given range ](https://practice.geeksforgeeks.org/problems/toggle-bits-given-range/0)
 5. [Set kth bit](https://practice.geeksforgeeks.org/problems/set-kth-bit/0)
+
+
+### Day 27: July 16, 2020
+
+**Today's Progress**: going through bit magic problems
+
+**Thoughts**
+1. got in first try. missed one edge case
+2. got in first try
+3. got in first try
+4. got in first try
+5. got in first try
+
+**Link(s) to work**
+1. [Power of 2](https://practice.geeksforgeeks.org/problems/power-of-2/0)
+2. [Bit Difference](https://practice.geeksforgeeks.org/problems/bit-difference/0)
+3. [Longest Consecutive 1's](https://practice.geeksforgeeks.org/problems/longest-consecutive-1s/0)
+4. [Number is sparse or not](https://practice.geeksforgeeks.org/problems/number-is-sparse-or-not/0)
+5. [Alone in couple](https://practice.geeksforgeeks.org/problems/alone-in-couple/0)
