@@ -600,3 +600,20 @@
 3. [Longest Consecutive 1's](https://practice.geeksforgeeks.org/problems/longest-consecutive-1s/0)
 4. [Number is sparse or not](https://practice.geeksforgeeks.org/problems/number-is-sparse-or-not/0)
 5. [Alone in couple](https://practice.geeksforgeeks.org/problems/alone-in-couple/0)
+
+
+### Day 28: July 17, 2020
+
+**Today's Progress**: going through bit magic problems
+
+**Thoughts**
+1. got in first try
+2. got in two tries
+3. got using brians algo
+4. Had to look O(n) solution
+
+**Link(s) to work**
+1. [Swap all odd and even bits](https://practice.geeksforgeeks.org/problems/swap-all-odd-and-even-bits/0)
+2. [Rotate Bits](https://practice.geeksforgeeks.org/problems/rotate-bits/0)
+3. [Count total set bits](https://practice.geeksforgeeks.org/problems/count-total-set-bits/0)
+4. [Maximum subset XOR](https://practice.geeksforgeeks.org/problems/maximum-subset-xor/1)
