@@ -636,3 +636,59 @@
 3. [Consecutive 1's not allowed](https://practice.geeksforgeeks.org/problems/consecutive-1s-not-allowed/0)
 4. [Majority Element](https://practice.geeksforgeeks.org/problems/majority-element/0)
 5. [Two numbers with sum closest to zero](https://practice.geeksforgeeks.org/problems/two-numbers-with-sum-closest-to-zero/0)
+
+
+### Day 30: July 19, 2020
+
+**Today's Progress**: going through array extra problems
+
+**Thoughts**
+1. got in first try
+2. got timeout for few cases. had to look at solution
+3. got in two tries
+4. got in first try
+5. got in two tries
+
+**Link(s) to work**
+1. [Nuts and Bolts Problem](https://practice.geeksforgeeks.org/problems/nuts-and-bolts-problem/0)
+2. [Boolean Matrix Problem](https://practice.geeksforgeeks.org/problems/boolean-matrix-problem/0)
+3. [Smallest Positive missing number](https://practice.geeksforgeeks.org/problems/smallest-positive-missing-number/0)
+4. [Jumping Caterpillars](https://practice.geeksforgeeks.org/problems/jumping-caterpillars/0)
+5. [Most frequent word in an array of strings](https://practice.geeksforgeeks.org/problems/most-frequent-word-in-an-array-of-strings/0)
+
+
+### Day 31: July 20, 2020
+
+**Today's Progress**: going through string extra problems
+
+**Thoughts**
+1. got in couple of tries, used lexicographical ordering
+2. got in first try
+3. got in first try
+4. got in first try
+5. got in first try
+
+**Link(s) to work**
+1. [CamelCase Pattern Matching](https://practice.geeksforgeeks.org/problems/camelcase-pattern-matching/0)
+2. [String Ignorance](https://practice.geeksforgeeks.org/problems/string-ignorance/0)
+3. [Design a tiny URL or URL shortener](https://practice.geeksforgeeks.org/problems/design-a-tiny-url-or-url-shortener/0)
+4. [Non Repeating Character](https://practice.geeksforgeeks.org/problems/non-repeating-character/0)
+5. [Check if strings are rotations of each other or not](https://practice.geeksforgeeks.org/problems/check-if-strings-are-rotations-of-each-other-or-not/0)
+
+
+### Day 32: July 21, 2020
+
+**Today's Progress**: going through string extra problems
+
+**Thoughts**
+1. got in first try
+2. got in first try
+3. got in first try
+4. got in first try
+
+**Link(s) to work**
+1. [Save Ironman](https://practice.geeksforgeeks.org/problems/save-ironman/0)
+2. [Repeated Character](https://practice.geeksforgeeks.org/problems/repeated-character/0)
+3. [Remove common characters and concatenate](https://practice.geeksforgeeks.org/problems/remove-common-characters-and-concatenate/0)
+4. [Second most repeated string in a sequence](https://practice.geeksforgeeks.org/problems/second-most-repeated-string-in-a-sequence/0)
+5. [Lowest Common Ancestor in a Binary Tree](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1)
